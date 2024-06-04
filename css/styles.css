@@ -108,11 +108,15 @@ padding: 50px 0 20px;
   float: left;
   margin-right: 30px;
 }
-
-.writing-img{
+.ml-img{
   width: 25%;
   float: right;
   margin-left: 20px;
+}
+.writing-img{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
 }
 .column {
   float: left;
